@@ -1,2 +1,4 @@
 puts '🍊'
 puts '🍇'
+puts '🍎'
+puts '🍈'
